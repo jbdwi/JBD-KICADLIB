@@ -1,0 +1,60 @@
+A. Lisensi
+Repository ini merupakan kumpulan librari KiCad buatan saya, dan / atau modifikasi dari official 
+Kicad Library, dan / atau dari rancangan orang lain yang mengacu pada lisensi GNU/PL. 
+Pada librari hasil modifikasi tentu akan saya sebut sumbernya apabila memang ada. 
+
+Anda dapat menggunakannya dan atau memodifikasinya sesuai dengan tatacara, protokol, klausul GNU/PL.
+Meski bukan suatu keharusan, namun sangat diharapkan Anda menyebutkan sumbernya.
+
+B. Jenis Librari
+Librari KiCAD yang saya muat di repo ini adalah :
+1. E-ESchema Component
+2. Component Footprint 
+3. Component 3D Models dengan format WRL ( VRML )
+4. Component 3D Models dengan format WINGS
+5. Dokumen terkait dalam format PDF atau Bitmap ( jpg, png, bmp etc).
+  
+ 
+C. Struktur Folder / Direktori
+Susunan / struktur folder pada repo ini persis sama dengan sususan folder resmi dari KiCad.
+Namun pengguna bisa saja mengaturnya sesuai dengan 'selera' masing-masing. Yang perlu diperhatikan 
+hanyalah mengedit PATH yang terkait - terutama '3D model path' yang ada di baris terbawah file footprint.
+
+jbd-kicadlib
+	+library
+		+libraries_doc
+			abc.jpg						// data ringkas komponen dan/atau gambar 2d
+			abc.pdf						// spesifikasi teknikal rinci, apabila tersedia
+		abc.lib
+		abc.dcm
+	+modules
+		+footprints_doc
+			yyy.jpg						// data ringkas dimensi footprint dan bentuk 3d
+			yyy.pdf						// spesifikasi teknikal rinci, apabila tersedia
+		+xxx.pretty
+			yyy.KICADMOD				// footprint files
+		+packages3d
+			+xxx.3dshapes
+				yyy.WRL					// 3d model files
+				yyy.WINGS				// 3d model files
+	
+
+D. Koreksi dan Saran
+Librari yang dimuat di repo ini tentu tidak selalu sesuai dengan 'selera' Anda. Dan tidak menutup
+kemungkinan ada satu dua hal yang salah, tidak tepat, tidak sesuai, kurang presisi, typo error dsb.
+Untuk itu silahkan Anda memberi koreksi, masukan / saran atau usulan. Dan apabila ada permintaan 
+untuk suatu librari yang belum ada, silahkan menyampaikannya. Apabila ternyata librari tsb ada di
+kepustakaan saya dan belum dimuat disini, maka akan segera saya muat. Apabila belum ada, dan bila 
+waktu tersedia, khususnya 3dmodels dan footprint, maka akan saya buatkan asalkan Anda mengirimkan
+dokumen rinci ( detail ) mengenai komponen tsb.
+
+E. Komunikasi / kontak
+Komunikasi dapat dilakukan dengan issue atau pull request di github ini. Namun karena saya tidak
+selalu memonitor repo ini, silahkan kontak saya melalui email ataupun facebook.
+	e-mail		: jbdwiyono@gmail.com
+	facebook	: josef b. dwiyono ( jbdwiyono@facebook.com )
+	
+	
+SEMOGA MANFAAT !
+
+Salam / JBD
