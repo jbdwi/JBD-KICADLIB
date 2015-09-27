@@ -14,7 +14,7 @@
   (pad 2 smd rect (at 0 0) (size 1.6 2.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.54 0) (size 1.6 2.4) (layers F.Cu F.Paste F.Mask))
   (pad "" connect rect (at 0 -8.636) (size 10 10) (layers F.Cu F.Mask))
-  (model Transistor.3dshapes/TO263.wrl
+  (model Transistors.3dshapes/TO263.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (pad 1 thru_hole circle (at -5.461 0 90) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 5.461 0 90) (size 3.4 3.4) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 0 -19.431 90) (size 5 5) (drill 3.6) (layers *.Cu *.Mask F.SilkS))
-  (model Transistor.3dshapes/TOP3_Hor_Sub.wrl
+  (model Transistors.3dshapes/TOP3_Hor_Sub.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
