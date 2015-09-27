@@ -52,6 +52,7 @@ I do realize that the library style in this repository does not always fit with 
 
 E. Communication / Contact
 Communication can be done by writing an issue in this repository. But since I do not always monitor to this repository, please don't hesitate to contact me via my email or Facebook account.
+
 e-mail		: jbdwiyono@gmail.com
 Facebook	: Josef B. Dwiyono (jbdwiyono@facebook.com)
 
