@@ -2,6 +2,8 @@ A. Lisensi
 Repository ini merupakan kumpulan librari KiCad buatan saya, dan / atau modifikasi dari official 
 Kicad Library, dan / atau dari rancangan orang lain yang mengacu pada lisensi GNU/PL. 
 Pada librari hasil modifikasi tentu akan saya sebut sumbernya apabila memang ada. 
+Sejumlah librari di repo ini sudah di-push ke official github KiCad repo, walau tidak selalu
+sudah di-amini oleh offical KiCad librarian.
 
 Anda dapat menggunakannya dan atau memodifikasinya sesuai dengan tatacara, protokol, klausul GNU/PL.
 Meski bukan suatu keharusan, namun sangat diharapkan Anda menyebutkan sumbernya.
