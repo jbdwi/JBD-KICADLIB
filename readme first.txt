@@ -28,19 +28,19 @@ jbd-kicadlib
 
 		libraries_doc			// this folder doesn't exist in the official KiCad library
 			abc.jpg			// simplified component specs and-or its 2d image
-			abc.pdf		// detail technical specs, whenever available
+			abc.pdf			// detail technical specs, whenever available
 	modules
 		xxx.pretty
-			yyy.KICADMOD	// footprint files
+			yyy.KICADMOD		// footprint files
 
 		packages3d
 			xxx.3dshapes
-				yyy.WRL	// 3d model files
+				yyy.WRL		// 3d model files
 				yyy.WINGS	// 3d model files
 
 			footprints_doc
-				yyy.jpg	// simple  footprint dimensions and its 3d shape
-				yyy.pdf	// detail technical specs, whenever available
+				yyy.jpg		// simple  footprint dimensions and its 3d shape
+				yyy.pdf		// detail technical specs, whenever available
 	
 
 
