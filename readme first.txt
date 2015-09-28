@@ -1,7 +1,8 @@
 A. Licenses
-This repository is a collection of my private KiCad libraries, and-or modification of the official Kicad Library, and-or from other open sources which refer to the GNU/PL. 
+This repository is a collection of my private KiCad libraries, and-or modification of the official Kicad Library, 
+and-or from other open sources which refer to the GNU/PL. 
 
-A number of libraries in the repository have been pushed to the official Kicad github repository, though not always been assessed and accepted by official KiCad librarians.
+A number of libraries in the repository have been pushed to the official Kicad github repository, though not necessarily have been assessed and accepted by official KiCad librarians.
 
 You can freely use or modify as long as following with the GNU/PL's  procedures, protocols and clauses.  Although not a necessity, it is most appreciated if you mention the sources.
 
