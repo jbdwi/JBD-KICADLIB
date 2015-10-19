@@ -1,6 +1,6 @@
 A. Licenses
-This repository is a collection of my private KiCad libraries, and-or modification of the official Kicad Library, 
-and-or from other open sources which refer to the GNU/PL. 
+This repository is a collection of my private KiCad libraries, and-or modification from the official Kicad Library, 
+and-or from other open sources library which based on the GNU/PL. 
 
 A number of libraries in the repository have been pushed to the official Kicad github repository, though not 
 necessarily have been assessed and accepted by official KiCad librarians.
@@ -11,7 +11,7 @@ not a necessity, it is most appreciated if you mention the sources.
 
 
 B. The Libraries
-The KiCad libraries I fit in this repository are :
+The KiCad libraries I put on this repository are :
 1. E-ESchema Component (*.LIB and *.DCM)
 2. Component Footprint (*.KICAD_MOD)
 3. Component 3dmodels VRML ( *.WRL )
@@ -62,7 +62,7 @@ component's document. As soon as my time is available, I will push it in this re
 
 E. Communication / Contact
 Communication can be done by writing an issue in this repository. But since I do not always monitor to 
-this repository, please don't hesitate to contact me via my email or Facebook account.
+this repository, please contact me via my email or Facebook account.
 
 e-mail		: jbdwiyono@gmail.com
 Facebook	: Josef B. Dwiyono (jbdwiyono@facebook.com)
