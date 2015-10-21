@@ -1,4 +1,4 @@
-(module Transformer_ETD49_P20X5.08_Ver (layer F.Cu) (tedit 56211CD1)
+(module Transformer_ETD49_P20X5.08_Vertical (layer F.Cu) (tedit 56211CD1)
   (descr Transformer_ETD49_P20X5.08_Ver.jpg)
   (tags "Transformer, ETD49")
   (fp_text reference REF** (at 22.86 -41.91) (layer F.SilkS)
@@ -69,7 +69,7 @@
   (pad 18 thru_hole oval (at 10.16 -30.48) (size 3.2 5) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad 19 thru_hole oval (at 5.08 -30.48) (size 3.2 5) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
   (pad 20 thru_hole oval (at 0 -30.48) (size 3.2 5) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (model Magnetic_Devices.3dshapes/Transformer_ETD49_P20X5.08_Ver.wrl
+  (model Magnetic_Devices.3dshapes/Transformer_ETD49_P20X5.08_Vertical.wrl
     (at (xyz 0.9 0.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

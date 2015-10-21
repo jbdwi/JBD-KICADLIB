@@ -39,7 +39,7 @@
   (pad 8 thru_hole circle (at 5.08 -8.89) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 2.54 -8.89) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 0 -8.89) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model Transformers_SMPS_ThroughHole.3dshapes/Transformer_EE14X14X7_P2X5_8.89X2.54.wrl
+  (model Magnetic_Devices.3dshapes/Transformer_EE14X14X7_P2X5_8.89X2.54.wrl
     (at (xyz 0.2 0.175 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
